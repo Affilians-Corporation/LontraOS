@@ -1,5 +1,4 @@
-![Logo of an otter playing videogames](./otter.jpg)
-# LontraOS
+# 🦦 LontraOS
 _An embedded operating system for a miniature console._
 
 ## Objectives
