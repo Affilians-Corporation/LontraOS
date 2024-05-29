@@ -10,8 +10,8 @@ _An embedded operating system for a miniature console._
 - Secure enough to provide safety while not compromising the performance, allowing only ports that are necessary
 ## Rules
 ### Coding Style
-- Functions are camelCase
-- Variables are snake_case
+- Functions are snake_case
+- Variables are camelCase
 - Enums, Structs, Types and Traits are PascalCase
 - Enum variants and constants are UPPER CASE
 - Indenting is 2 spaces
