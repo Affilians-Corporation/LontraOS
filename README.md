@@ -33,4 +33,4 @@ _An embedded operating system for a miniature console._
 - Only one Game or App is in RAM at a time
 - Kernel routines should take as little time/space from CPU/RAM as possible
 - The GUI library is as compact as it gets
-- The GUI is user-space
+- The GUI is user-space.
